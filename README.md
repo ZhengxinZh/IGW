@@ -1,5 +1,6 @@
 # Inner-product Gromov-Wasserstein: gradient flow and flow matching dynamics
 > To add url
+
 This code uses:
 1) Neural ODE framework for training the flow model:
        @misc{torchdiffeq,
