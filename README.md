@@ -1,5 +1,5 @@
 # Inner-product Gromov-Wasserstein: gradient flow and flow matching dynamics
-> To add url
+> Demo code for paper https://arxiv.org/abs/2407.11800
 
 This code uses:
 1) Neural ODE framework for training the flow model:
